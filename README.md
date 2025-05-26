@@ -71,21 +71,15 @@ A modern, responsive, and feature-rich HR management dashboard built with **Next
 
 # 🛠️ Getting Started
 1. Clone the Repository
-bash
-Copy
-Edit
 git clone https://github.com/PranavAdityaa/ElevateHR.git
 cd ElevateHR
+
 2. Install Dependencies
-bash
-Copy
-Edit
 npm install
+
 3. Run the Development Server
-bash
-Copy
-Edit
 npm run dev
+
 Visit http://localhost:3000 to view the app in the browser.
 
 📁 Folder Structure
