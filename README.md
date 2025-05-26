@@ -82,7 +82,7 @@ npm run dev
 
 Visit http://localhost:3000 to view the app in the browser.
 
-📁 Folder Structure
+## 📁 Folder Structure
 bash
 Copy
 Edit
@@ -94,7 +94,8 @@ ElevateHR/
 ├── public/screenshots/ # Project screenshots
 ├── styles/             # Tailwind and global CSS
 └── README.md
-📬 Contact
+
+##📬 Contact
 Developer: B Pranav Aditya
 📧 LinkedIn
 📞 9059728400
