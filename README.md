@@ -97,7 +97,6 @@ ElevateHR/
 
 ## 📬 Contact
 Developer: B Pranav Aditya
-📧 LinkedIn
 📞 9059728400
 
 
