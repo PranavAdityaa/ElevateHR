@@ -1,0 +1,33 @@
+.header-container {
+  position: relative;
+  padding-bottom: 0.5rem;
+}
+
+.header-container::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(to right, #3B82F6, #60A5FA);
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+.header-container:hover::after {
+  width: 100px;
+}
+
+.header-title {
+  background: linear-gradient(to right, #1F2937, #4B5563);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.3s ease;
+}
+
+.dark .header-title {
+  background: linear-gradient(to right, #E5E7EB, #9CA3AF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+} 
