@@ -95,7 +95,7 @@ ElevateHR/
 ├── styles/             # Tailwind and global CSS
 └── README.md
 
-##📬 Contact
+## 📬 Contact
 Developer: B Pranav Aditya
 📧 LinkedIn
 📞 9059728400
